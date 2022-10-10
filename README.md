@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelwahab</h1>
 <h3 align="center">Back-end/software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwahab-hamada&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwahab-hamada" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwahab-hamada-portfolio&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwahab-hamada-portfolio" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://abdelwahab-hamada.github.io/portfolio/](https://abdelwahab-hamada.github.io/portfolio/)
 
