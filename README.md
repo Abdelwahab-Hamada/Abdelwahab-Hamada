@@ -2,7 +2,9 @@
 <h3 align="center">Back-end/software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwahab-hamada-portfolio&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwahab-hamada-portfolio" /> </p>
-
+<p align="left">
+<a href="https://linkedin.com/in/abdelwahab-hamada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelwahab-hamada" height="30" width="40" /></a>
+</p>
 <!-- 👨‍💻 All of my projects are available at [https://abdelwahab-hamada.github.io/portfolio/](https://abdelwahab-hamada.github.io/portfolio/) -->
 
 - 📫 How to reach me **abdelwahab.hamada@gmail.com**
