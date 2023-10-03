@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwahab-hamada-portfolio&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwahab-hamada-portfolio" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://abdelwahab-hamada.github.io/portfolio/](https://abdelwahab-hamada.github.io/portfolio/)
+<!-- 👨‍💻 All of my projects are available at [https://abdelwahab-hamada.github.io/portfolio/](https://abdelwahab-hamada.github.io/portfolio/) -->
 
 - 📫 How to reach me **abdelwahab.hamada@gmail.com**
 
-- 📄 Know about my experiences [https://res.cloudinary.com/abdelwahab-youssef/image/upload/v1665408798/Abdelwahab_youssef___cv_xfr7xj.pdf](https://res.cloudinary.com/abdelwahab-youssef/image/upload/v1674302437/Abdelwahab_Hamada_Resume_r32qe9.pdf)
+<!-- 📄 Know about my experiences [https://res.cloudinary.com/abdelwahab-youssef/image/upload/v1665408798/Abdelwahab_youssef___cv_xfr7xj.pdf](https://res.cloudinary.com/abdelwahab-youssef/image/upload/v1674302437/Abdelwahab_Hamada_Resume_r32qe9.pdf)-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelwahab-hamada&show_icons=true&locale=en" alt="abdelwahab-hamada" /></p>
 
